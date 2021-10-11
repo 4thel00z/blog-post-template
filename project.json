@@ -1,0 +1,6 @@
+{
+    "Name": "",
+    "Layout": "layouts/post.njk",
+    "Categories": "security",
+    "Comments": false
+}
