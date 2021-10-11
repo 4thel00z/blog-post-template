@@ -1,6 +1,6 @@
 ----
 title:  "{{ lower Name }}"
-date:  "{{time "2020-10-31"}}"
+date:  "{{ currentDate }}"
 categories: "{{ Categories }} "
 comments: {{ Comments }}
 layout: {{ Layout }}
