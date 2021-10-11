@@ -1,8 +1,8 @@
----
-title:  "{{ Name }}"
+----
+title:  "{{ lower Name }}"
 date:  "{{time "2020-10-31"}}"
 categories: "{{ Categories }} "
 comments: {{ Comments }}
 layout: {{ Layout }}
----
+----
 
